@@ -3,7 +3,7 @@ blnk
 node_modules
 .env
 .idea
-blnk.json
+# blnk.json
 promtail
 dump.rdb
 heartbeat.db

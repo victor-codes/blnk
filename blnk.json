@@ -1,0 +1,15 @@
+{
+  "project_name": "BlipIt",
+  "data_source": {
+    "dns": "postgresql://blipit_blnk_db_user:dFWXwWpHFfeem6pvGQq53XydA6udgG3k@dpg-d0c84lmuk2gs738j8i80-a.oregon-postgres.render.com/blipit_blnk_db?sslmode=require"
+  },
+  "redis": {
+    "dns": "redis://:NuqRSk1awbcTzQ4XQhhLAbBr1Q9Te28B@oregon-keyvalue.render.com:6379/0"
+  },
+  "server": {
+    "port": "5001",
+    "ssl": true,
+    "domain": "api-blnk.ayovictor.dev",
+    "email": "ayodejiv5@gmail.com"
+  }
+}
